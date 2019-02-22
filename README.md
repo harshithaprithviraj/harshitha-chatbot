@@ -1,1 +1,3 @@
-# harshitha-chatbot
+npm install
+ npm install -g nodemon 
+  npm start
